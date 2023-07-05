@@ -6,7 +6,7 @@ public class BDDGitHubClass {
 		//System.out.println("bdd github class");
 		
 		String abc="";
-		String bcd="";
+		String bcd="addfde";
 	}
 
 }
