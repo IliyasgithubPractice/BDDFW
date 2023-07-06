@@ -5,7 +5,7 @@ public class BDDGitHubClass {
 		System.out.println("bdd github class");
 		//System.out.println("bdd github class");
 		
-		String abc="git for practice";
+		String abc="";
 	}
 
 }
