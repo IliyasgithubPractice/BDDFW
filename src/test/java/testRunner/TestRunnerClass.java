@@ -10,7 +10,6 @@ import io.cucumber.junit.CucumberOptions;
 		features= {"AllFeatures"},
 		glue= {"stepDefination"},
 		dryRun=false,
-		monochrome=true,
 		tags="@LoginPage"
 		
 		
