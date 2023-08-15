@@ -29,6 +29,7 @@ public class LoginPageTest extends Baseclass {
 	@Then("user is on homepage  #verification")
 	public void user_is_on_homepage_verification() {
 		login.captureTilte();
+		driver.quit();
 
 	}
 

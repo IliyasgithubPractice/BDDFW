@@ -9,11 +9,10 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		features= {"AllFeatures"},
 		glue= {"stepDefination"},
-		dryRun=false,
 		tags="@LoginPage"
 		
 		
 	)
-public class TestRunnerClass  {
+public class TestRunner  {
 
 }
