@@ -150,7 +150,7 @@
                      <configuration>
 						<testFailureIgnore>true</testFailureIgnore>
 				     <suiteXmlFiles>
-						<suiteXmlFile>${filename}</suiteXmlFile>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
                     </configuration>
 
