@@ -132,8 +132,7 @@
                             <reuseForks>false</reuseForks>
                             <reportsDirectory>target/surefire-reports-${surefire.forkNumber}</reportsDirectory>
                             <suiteXmlFiles>
-                                    <suiteXmlFile>testng.xml</suiteXmlFile>
-                                   
+                                    <suiteXmlFile>testng.xml</suiteXmlFile>       
                             </suiteXmlFiles>
                     </configuration>
             </plugin>
