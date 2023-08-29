@@ -11,9 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 		glue= {"stepDefination"},
 		dryRun=false,
 		monochrome=true,
-		tags="@LoginPage"
-		
-		
+		tags="@LoginPage"	
 	)
 public class TestRunnerClass  {
 
